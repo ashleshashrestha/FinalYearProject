@@ -110,4 +110,8 @@ export const logout = async (req, res) => {
   } catch (error) {
     console.log(error);
   }
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> c6dc288e826f935f8e52f6cc635798a1906b1ef1
